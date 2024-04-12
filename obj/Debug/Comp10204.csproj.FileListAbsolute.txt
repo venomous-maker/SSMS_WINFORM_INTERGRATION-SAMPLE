@@ -1,0 +1,10 @@
+C:\Users\V3N0M\source\repos\Comp10204\bin\Debug\Comp10204.exe.config
+C:\Users\V3N0M\source\repos\Comp10204\bin\Debug\Comp10204.exe
+C:\Users\V3N0M\source\repos\Comp10204\bin\Debug\Comp10204.pdb
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.csproj.AssemblyReference.cache
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.MainForm.resources
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.Properties.Resources.resources
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.csproj.GenerateResource.cache
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.csproj.CoreCompileInputs.cache
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.exe
+C:\Users\V3N0M\source\repos\Comp10204\obj\Debug\Comp10204.pdb
